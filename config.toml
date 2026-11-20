@@ -1,0 +1,10 @@
+[database]
+db_path="/raid/VIDRL-USERS/VIDRL-BINFIE/vidrl-seq"
+default_project_path_list=["/raid/VIDRL-SEQ/SDRIVE/Translational Diagnostics/Projects", "/raid/VIDRL-SEQ/GENOMICSFS/Analysis", "/raid/VIDRL-SEQ/GENOMICSFS/Projects"]
+default_medipath_extract="medipath_exact.csv"
+default_medipath_db="medipath.db.csv"
+default_consensus_db="consensus.db.csv"
+
+[other]
+author="Josh Zhang"
+
